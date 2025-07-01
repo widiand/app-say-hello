@@ -2,3 +2,5 @@ github.com/widiand/go-say-hello v1.0.0 h1:lrG5SoUM4jIaNB1HsuEZ2gkMZA6iPZvIcl8CHX
 github.com/widiand/go-say-hello v1.0.0/go.mod h1:2cVToVPmewkBi77wKzp6XJ5FrTiZ2lOF+iflFxu3EIo=
 github.com/widiand/go-say-hello v1.5.0 h1:FCOaymnPd7FEHo1xy+A5kaaacohZ1nhxrSQwPF/9gGo=
 github.com/widiand/go-say-hello v1.5.0/go.mod h1:2cVToVPmewkBi77wKzp6XJ5FrTiZ2lOF+iflFxu3EIo=
+github.com/widiand/go-say-hello/v2 v2.0.0 h1:msNWQk7lZ7K90JOu/uWpIZOP9mXlJXSzqyK7oDl7qeE=
+github.com/widiand/go-say-hello/v2 v2.0.0/go.mod h1:tNbesMc0vYnFFz+gQDSmAgstDpaDPgPdt7d0FQNDOHc=
